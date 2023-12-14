@@ -1,0 +1,3 @@
+/workspace/pathfinding_visualized/build/CMakeFiles/pathfinding_visualized.dir
+/workspace/pathfinding_visualized/build/CMakeFiles/edit_cache.dir
+/workspace/pathfinding_visualized/build/CMakeFiles/rebuild_cache.dir
